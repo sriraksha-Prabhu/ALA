@@ -11,7 +11,6 @@ from main import (
     rank_tags
 )
 
-
 # Sample embedding model for testing
 class SampleModel:
 
